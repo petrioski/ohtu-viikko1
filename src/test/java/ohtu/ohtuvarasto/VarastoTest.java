@@ -126,6 +126,6 @@ public class VarastoTest {
 
     @Test 
     public void merkkijonoEsitysToimii() {
-        assertEquals("saldo = 5.0, vielä tilaa 5.0", varastoAlkusaldolla.toString());
+        assertEquals("saldo = 5.00, vielä tilaa 5.0", varastoAlkusaldolla.toString());
     }
 }
