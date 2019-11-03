@@ -1,1 +1,2 @@
+This is the third change in the file.
 text file
