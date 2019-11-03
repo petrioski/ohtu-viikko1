@@ -2,3 +2,5 @@
 /.gradle/*
 *.tmp
 .vscode/
+/.settings/*
+*.class
